@@ -20,7 +20,7 @@ bio: My research interests include Robotics, System Reliability, Machine Learnin
 interests:
 - Artificial Intelligence
 - Robotics
-- fractional systems & control
+- Fractional Systems & Control
 - System Reliability
 
 # Education to show in About widget
