@@ -97,7 +97,7 @@ address = {street = "443 HuangShan Road", city = "Hefei", region = "Anhui", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.844072", longitude = "117.258393"}
+coordinates = {latitude = "31.844072", longitude = "117.250393"}
 
 # Directions for visitors to locate you.
 directions = ""
