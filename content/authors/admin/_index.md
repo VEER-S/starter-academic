@@ -69,5 +69,3 @@ highlight_name: false
 ---
 
 Hi! I am a Ph.D. Candidate of Laboratory of Vibration Control and Vehicle Control, Univ. of Sci. & Tech. of China (USTC). My research interests include Robotics, System Reliability, Machine Learning and Neural Networks based on fractional calculus.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
