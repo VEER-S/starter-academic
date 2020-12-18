@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
   date_end: ""
-  date_start: "2019-10-01"
+  date_start: "2018-06-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: National second prize in the 17th National College Student Robot Competition (ROBOCON)
+  organization: Robocon
+  organization_url:
+  title: National second prize in the 17th National College Student Robot Competition
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
