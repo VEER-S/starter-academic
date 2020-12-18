@@ -10,7 +10,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Univ. of Sci. & Tech. of China (USTC)
+- name: Univ. of Sci. & Tech. of China
   url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
