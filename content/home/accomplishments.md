@@ -45,6 +45,6 @@ item:
   description: ""
   organization: Ministry of Education
   organization_url:
-  title: National Scholarship for Graduate Student in Univ. of Sci. & Tech. of China
+  title: National Scholarship for Graduate Student in the Univ. of Sci. & Tech. of China
   url: ""
 ---
