@@ -70,4 +70,4 @@ highlight_name: false
 
 Welcome! I am a Ph.D. candidate at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). My research interests include Robotics:robot:, System Reliability, and Machine Learning & Neural Networks based on fractional calculus. :technologist:
 
-I am a Fun Guy and Skater Boy:skateboard:. I have a vriety of hobbies. My favorate sport is basketball:basketball:. I also like handball:man_playing_handball: and reading.
+I am a Fun Guy and Skater Boy:skateboard:. I have a variety of hobbies. My favorate sport is basketball:basketball:. I also like handball:man_playing_handball: and reading.
