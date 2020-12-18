@@ -68,4 +68,5 @@ email: "kb8@mail.ustc.edu.cn"
 highlight_name: false
 ---
 
-Welcome! I am a Ph.D. Candidate of Laboratory of Vibration Control and Vehicle Control in [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I received the B.E. degree in Automation from USTC in 2018. My research interests include Robotics, System Reliability, Machine Learning and Neural Networks based on fractional calculus. :technologist:
+Welcome! I am a Ph.D. Candidate of Laboratory of Vibration Control and Vehicle Control in [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I received the B.E. degree in automation from USTC in 2018. My research interests include Robotics, System Reliability, Machine Learning and Neural Networks based on fractional calculus. :technologist:
+I am a 'Fun Guy'. I have a vriety of hobbies. My favorate sport is basketball. I also like handball and reading.
