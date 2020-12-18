@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Control Science and Engineering
+  - course: Ph.D. in Control Science and Engineering
     institution: University of Science and Technology of China
     year: in progress
   - course: BSc in Information Science and Technology
