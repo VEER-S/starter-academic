@@ -18,26 +18,22 @@ subtitle:
 feature:
 - description: 100%
   icon: cat
-  icon_pack: fab
+  icon_pack: fas
   name: Cat Person
 - description: 60%
   icon: laptop-code
   icon_pack: fas
-  name: Matlab
+  name: Coding
 - description: 50%
   icon: basketball-ball
   icon_pack: fas
   name: Basketball
-- description: 70%
-  icon: feather-alt
-  icon_pack: fas
-  name: Latex
 
 # Uncomment to use emoji icons.
-- icon: ":smile:"
-  icon_pack: "emoji"
-  name: "Emojiness"
-  description: "100%"  
+#- icon: ":smile:"
+#  icon_pack: "emoji"
+#  name: "Emojiness"
+#  description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
