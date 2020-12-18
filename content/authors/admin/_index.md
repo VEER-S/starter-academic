@@ -30,7 +30,7 @@ education:
   - course: Ph.D. in Control Science and Engineering
     institution: University of Science and Technology of China
     year: in progress
-  - course: BSc in Information Science and Technology
+  - course: BSc in Automation
     institution: University of Science and Technology of China
     year: 2014-2018
 
