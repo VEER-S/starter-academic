@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: National second prize in the 17th National College Student Robot Competition (ROBOCON)
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
