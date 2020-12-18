@@ -22,6 +22,7 @@ interests:
 - Robotics
 - Fractional Systems & Control
 - System Reliability
+- Data Mining
 
 # Education to show in About widget
 education:
