@@ -32,7 +32,7 @@ education:
     year: in progress
   - course: BSc in Automation
     institution: University of Science and Technology of China
-    year: 2014-2018
+    year: 2014--2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
