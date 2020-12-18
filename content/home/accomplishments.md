@@ -27,24 +27,24 @@ item:
   date_end: ""
   date_start: "2018-06-01"
   description: ""
-  organization: Robocon
+  organization: Robocon China
   organization_url:
   title: National second prize in the 17th National College Student Robot Competition
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url:
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2019-06-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Robocon China
+  organization_url:
+  title: National third prize in the 18th National College Student Robot Competition
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2020-10-01"
+  description: ""
+  organization: Ministry of Education
+  organization_url:
+  title: National Scholarship for Graduate Student in Univ. of Sci. & Tech. of China
   url: ""
 ---
