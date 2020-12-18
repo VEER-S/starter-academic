@@ -19,7 +19,7 @@ feature:
 - description: 100%
   icon: cat
   icon_pack: fab
-  name: Cat
+  name: Cat Person
 - description: 60%
   icon: laptop-code
   icon_pack: fas
