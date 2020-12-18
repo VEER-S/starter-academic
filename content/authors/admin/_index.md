@@ -44,12 +44,12 @@ social:
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/a-shu-22-35
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/VEER-S
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4993-0084
