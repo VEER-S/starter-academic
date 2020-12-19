@@ -6,7 +6,7 @@ title: "Design and implementation of fractional differentiators, Part II: Signal
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- WEI Yingheng
+- WEI Yiheng
 - CHEN Yuquan
 - WANG Yong
 
