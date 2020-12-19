@@ -8,9 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 130
-[design.background]
-# Background color.
-color = "navy"
+
 title: Contact
 subtitle:
 
