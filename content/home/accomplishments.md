@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2018-06-01"
   description: ""
-  organization: :cat:Robocon China
+  organization: :cat: Robocon China
   organization_url:
   title: National Second Prize in the 17th National College Student Robot Competition
   url: ""
@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2019-06-01"
   description: ""
-  organization: :whale2:Robocon China
+  organization: :whale2: Robocon China
   organization_url:
   title: National Third Prize in the 18th National College Student Robot Competition
   url: ""
@@ -43,7 +43,7 @@ item:
   date_end: ""
   date_start: "2020-10-01"
   description: ""
-  organization: :unicorn:Ministry of Education
+  organization: :unicorn: Ministry of Education
   organization_url:
   title: National Scholarship for Graduate Student in the Univ. of Sci. & Tech. of China
   url: ""
