@@ -32,8 +32,6 @@ categories:
 
 ---
 
-I know the sun will swallow the only earth we'll ever have, and I am in love with you.
-
 四月的神奈川县春意盎然，刚刚升入湘北高中的红发少年樱木花道的内心却正经历寒冬。因为表白对象喜欢篮球部的小田而对篮球深恶痛绝的他，可能永远也不会想到，有一天，他会深深地爱上这项运动并视其如生命！
 
 👉我是篮球健将樱木花道！
