@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Publications
-subtitle: ""
+subtitle: "Stay Hungry, Stay Foolish"
 
 content:
   # Page type to display. E.g. post, talk, publication...
