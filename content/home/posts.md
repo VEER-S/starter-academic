@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle:
+subtitle: Damn Interesting
 
 content:
   # Page type to display. E.g. post, talk, publication...
