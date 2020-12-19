@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: "Those times when you get up early and you work hard, those times when you stay up late and you work hard, those times when you don’t feel like working, you’re too tired, you don’t want to push yourself, but you do it anyway. That is actually the dream." --Kobe Bryant
 
 content:
 
