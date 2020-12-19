@@ -8,7 +8,7 @@ light = true
 primary = "rgb(30, 144, 255)"
 
 # Menu
-menu_primary = "rgb(47, 79, 79)"
+menu_primary = "rgb(105, 105, 105)"
 menu_text = "rgb(30, 144, 255)"
 menu_text_active = "#fff"
 menu_title = "#rgb(153, 153, 153)"
