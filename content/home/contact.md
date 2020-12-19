@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: 
+subtitle: Welcome to USTC! :crossed_fingers:
 
 content:
 
