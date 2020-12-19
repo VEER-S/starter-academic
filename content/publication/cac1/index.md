@@ -29,8 +29,7 @@ publication_types: ["1"]
 publication: In *China Automation Congress*
 publication_short: In *CAC*
 
-abstract: This paper presents an emerging design strategy of fractional order tracking differentiator (FOTD) inspired by the basic definitions of fractional derivative. With this newly developed strategy and the mature integer order tracking differentiator, many FOTDs can be designed in the sense of Caputo and Riemann–Liouville definitions, which have excellent performance in real-time tracking of differential signals. Furthermore, without loss of generality, FOTDs are extended to non-zero initial instant
-by adding compensation to the fractional integral. Finally, four careful examples are designed to verify the validity and feasibility of the elaborated strategy.
+abstract: This paper presents an emerging design strategy of fractional order tracking differentiator (FOTD) inspired by the basic definitions of fractional derivative. With this newly developed strategy and the mature integer order tracking differentiator, many FOTDs can be designed in the sense of Caputo and Riemann–Liouville definitions, which have excellent performance in real-time tracking of differential signals. Furthermore, without loss of generality, FOTDs are extended to non-zero initial instant by adding compensation to the fractional integral. Finally, four careful examples are designed to verify the validity and feasibility of the elaborated strategy.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -57,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption:
   focal_point: ""
   preview_only: false
 
