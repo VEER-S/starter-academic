@@ -2,7 +2,7 @@
 title: I'm in love with you, he said quietly.
 subtitle: I know the sun will swallow the only earth we'll ever have, and I am in love with you.
 
-summary: I know the sun will swallow the only earth we'll ever have, and I am in love with you. (:bulb:The initial version was released on Zhihu)
+summary: I know the sun will swallow the only earth we'll ever have, and I am in love with you. (:bulb:The initial version was published on Zhihu)
 
 # Date published
 date: "2016-04-20T00:00:00Z"
